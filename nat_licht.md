@@ -26,3 +26,5 @@ R|I
 40°|73.8°
 45°|Er is alleen reflectie
 50°|Er is alleen reflectie
+
+Grenshoek: Bij een R van 41.9° is de I 87.2°, als je de R vergroot met 0.1 is er alleen nog reflectie.
