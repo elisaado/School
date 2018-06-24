@@ -1,6 +1,18 @@
 # Natuurkunde verslag: Licht
 Door Merijn Sandvliet (3AG1), Eli Saado (3AG1), E. Hertsenberg
 
+## Waarom deze proef
+We willen de brekingsindex bepalen tussen lucht en perspex.
+
+## Benodigdheden
+[x] Lichtkastje
+[x] Voorzetstukje met sleuf
+[x] 2 electriciteitskabels
+[x] Halfrond blokje perspex
+[x] Wit papier
+[x] Geodriehoek
+[x] Potlood
+
 ## Gegevens
 
 ### Lucht naar perspex
