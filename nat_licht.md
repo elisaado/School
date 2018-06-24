@@ -102,3 +102,7 @@ Dus de grenshoek is ongeveer 42.1°
 
 Dit zit vlakbij de 41.9° die we hebben gevonden in proef 8
 
+
+## Conclusie
+
+Deze proef was erg uitdagend, want aan het einde hadden we weinig tijd, maar we vonden hem wel leuk.
